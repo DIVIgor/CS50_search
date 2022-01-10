@@ -1,4 +1,3 @@
-Specification
 Your website must meet the following requirements.
 
 - Pages. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
