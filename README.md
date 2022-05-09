@@ -1,6 +1,7 @@
 # Description
-This is the first CS50 task.
-### Tasks
+This is the first CS50 task.\
+**Design a front-end for Google Search, Google Image Search, and Google Advanced Search.**
+### Requirements
 Your website must meet the following requirements:
 
 - Pages. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
